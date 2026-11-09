@@ -282,7 +282,7 @@ a:focus-visible {
   height: 300px;
   border-radius: 12px;
   background-color: #dbe7ff;
-  background-image: url('potoformal.jpeg'), linear-gradient(135deg, #bfd4ff, #e8f0ff);
+  background-image:url('potoformal.jpeg'); linear-gradient(135deg, #bfd4ff, #e8f0ff);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
